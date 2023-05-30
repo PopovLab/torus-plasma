@@ -15,6 +15,7 @@ jupyterlab = "^4.0.0"
 pandas = "^2.0.1"
 ipympl = "^0.9.3"
 scipy = "^1.10.1"
+sympy = "^1.12"
 
 
 [build-system]
